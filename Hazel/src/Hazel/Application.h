@@ -1,13 +1,16 @@
 #pragma once
 
+#include "Core.h"
+
 namespace Hazel 
 { 
-class Application
-{
-	Application();
-	virtual ~Application();
+	class HAZEL_API Application
+	{
+	public:
+		Application();
+		virtual ~Application();
 
-	void Run();
-};
+		void Run();
+	};
 }
 
