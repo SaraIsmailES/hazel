@@ -12,9 +12,8 @@ public:
 	}
 };
 
-int main()
+Hazel::Application* Hazel::CreateApplication()
 {
-	Sandbox* App = new Sandbox();
-	App->Run();
-	delete App;
+	return new Sandbox();
 }
+
