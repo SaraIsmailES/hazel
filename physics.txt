@@ -1,0 +1,66 @@
+1. Fundamental Concepts in Mathematics
+Objective: Establish a basic understanding necessary for all subsequent topics.
+
+Basic Algebra
+
+Algebraic Operations: Solving equations, manipulating expressions.
+Coordinate Geometry
+
+Cartesian Coordinates: Plotting points, understanding the coordinate plane.
+2. Essential Trigonometry
+Objective: Provide tools needed for vector analysis and understanding motion.
+
+Angle Measurement
+
+Degrees and Radians: Basic understanding and conversions.
+Trigonometric Functions
+
+Sine, Cosine, Tangent: Definitions and relationships.
+Basic Graphs: Understanding the shapes and periodicity of sine and cosine functions.
+Right Triangle Relationships
+
+Pythagorean Theorem: Application to find lengths.
+Basic Trigonometric Ratios: Using sine, cosine, and tangent to find angles and sides.
+3. Vector Fundamentals
+Objective: Learn vector operations and how to apply them to physics problems.
+
+Vector Basics
+
+Definition and Notation: Understanding what vectors are and how they are represented.
+Magnitude and Direction: Calculating vector length and direction.
+Vector Components
+
+Decomposition: Breaking vectors into components using trigonometry.
+Component Calculations: Using sine and cosine to find horizontal and vertical components.
+Vector Operations
+
+Addition and Subtraction: Combining vectors using graphical and algebraic methods.
+Scalar Multiplication: Scaling vectors by multiplying with scalars.
+4. 1D Motion
+Objective: Analyze motion in one dimension to lay the groundwork for more complex scenarios.
+
+Kinematics Basics
+
+Displacement, Velocity, and Acceleration: Definitions and formulas.
+Equations of Motion: Applying equations for constant acceleration.
+Graphical Interpretation
+
+Position-Time Graphs: Interpreting graphs to find velocity and acceleration.
+Velocity-Time Graphs: Understanding how to use graphs to determine displacement and acceleration.
+5. Projectile Motion
+Objective: Apply the principles of vectors and 1D motion to two-dimensional motion problems.
+
+Projectile Motion Fundamentals
+
+Horizontal and Vertical Components: Analyzing motion in two dimensions separately.
+Equations for Projectiles: Time of flight, maximum height, and range.
+Vector Analysis in Projectiles
+
+Resolving Initial Velocity: Decomposing the initial velocity into horizontal and vertical components.
+Application of Kinematics: Using kinematic equations in both dimensions to solve projectile problems.
+Summary of the Top-Down Plan
+Basic Algebra & Coordinate Geometry: Essential for understanding all subsequent mathematical concepts.
+Trigonometry: Provides necessary tools for working with vectors and understanding motion.
+Vectors: Foundation for analyzing physical quantities with direction and magnitude.
+1D Motion: Basic principles of motion in a single direction.
+Projectile Motion: Application of vectors and 1D motion principles to two-dimensional problems.
