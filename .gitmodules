@@ -4,3 +4,5 @@
 [submodule "Hazel/vendor/GLFW"]
 	path = Hazel/vendor/GLFW
 	url = https://github.com/TheCherno/glfw
+
+#https://github.com/TheCherno/glfw/tree/b4b43190ce623f1a75c94f7100c2d5b0b7bbb4f8    the working one for starting lec11
