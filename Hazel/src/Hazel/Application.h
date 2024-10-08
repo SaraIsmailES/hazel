@@ -6,6 +6,8 @@
 #include "Hazel/LayerStack.h"
 #include "Window.h"
 
+
+
 namespace Hazel 
 { 
 	class HAZEL_API Application//
@@ -27,6 +29,8 @@ namespace Hazel
 		bool m_Running = true;
 
 		LayerStack m_LayerStack;
+
+		std::shared_ptr<Layer> m_SaraLayer;
 	};
 
 	Application* CreateApplication();
